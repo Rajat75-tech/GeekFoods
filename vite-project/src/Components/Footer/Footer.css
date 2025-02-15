@@ -1,0 +1,77 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.Foot {
+    background-color: #f3f4f6;
+}
+
+#footer {
+    margin-left: 240px;
+    margin-right: 240px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 33px;
+    padding-right: 33px;
+    text-align: center;
+}
+
+#lopi {
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+.lom {
+    color: #6b7280;
+    font-weight: 450;
+    margin-bottom: 48px;
+}
+
+.hori {
+    display: flex;
+    gap: 48px;
+    cursor: pointer;
+    margin-bottom: 48px;
+}
+
+#a {
+    margin-left: 215px;
+}
+
+#a:hover {
+    color: #6b7280;
+}
+
+#ca:hover {
+    color: #6b7280;
+}
+
+#hi:hover {
+    color: #6b7280;
+}
+
+#s:hover {
+    color: #6b7280;
+}
+
+#p:hover {
+    color: #6b7280;
+}
+
+#b:hover {
+    color: #6b7280;
+}
+
+#icon {
+    display: flex;
+    gap: 30px;
+}
+
+#png {
+    width: 10px;
+    height: 12px;
+}
+
+.fa:hover {
+    color: #6b7280;
+}

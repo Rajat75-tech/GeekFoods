@@ -1,0 +1,202 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin-left: 112px;
+    margin-right: 112px;
+    padding: 16px;
+}
+
+.imte {
+    width: 1280px;
+    height: 68px;
+    margin-right: 300px;
+    font-size: 24px;
+}
+
+/* .imte a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+} */
+
+.gfs {
+    text-align: center;
+}
+
+.log {
+    margin-right: 12px;
+}
+
+.sect {
+    gap: 33px;
+}
+
+#h {
+    margin-right: 33px;
+    color: blue;
+    cursor: pointer;
+}
+
+#q {
+    margin-right: 33px;
+    cursor: pointer;
+}
+
+#q:hover {
+    color: blue;
+}
+
+#rs {
+    margin-right: 33px;
+    cursor: pointer;
+}
+
+#rs:hover {
+    color: blue;
+}
+
+#fs {
+    margin-right: 33px;
+    cursor: pointer;
+}
+
+#fs:hover {
+    color: blue;
+}
+
+#c {
+    margin-right: 294px;
+    cursor: pointer;
+}
+
+#c:hover {
+    color: blue;
+}
+
+#gs {
+    width: 103px;
+    height: 36px;
+    background-color: #1d4ed8;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+#gs:hover {
+    background-color: #4367c9;
+}
+
+/* .container {
+    position: relative;
+    width: 100%;
+    /* Set a width or use responsive units as needed */
+/*}
+
+.mng {
+    width: 100%;
+    height: 660px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    /* top: 50%;      /* Position in the middle vertically */
+    /* left: 50%;     /* Position in the middle horizontally */
+    /* transform: translate(-50%, -50%);
+    text-align: center;
+    /* color: white;  Choose a contrasting color */ 
+    /* Additional styles like background color with opacity can be added if desired */
+   /* top: 20%;
+    left: 10%;
+    width: 512px;
+    height: 255px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#lf {
+    color: #121212;
+    font-weight: bolder;
+    font-size: 48px;
+    padding: 0;
+    margin: 0;
+}
+
+#ff {
+    color: red;
+    font-size: 48px;
+    padding: 0;
+    margin: 0;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+
+.lorem {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.butt {
+    display: flex;
+    margin-top: 10px;
+}
+
+#sn {
+    width: 170px;
+    height: 44px;
+    background-color: #e11d48;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    margin-right: 20px;
+    font-weight: bolder;
+}
+
+#sn:hover {
+    background-color: #cd3c5b;
+}
+
+#km {
+    width: 168px;
+    height: 44px;
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;
+    border-radius: 5px;
+    color: #e11d48;
+    border: none;
+    font-weight: bolder;
+}
+
+#km:hover {
+    background-color: #fcf2f2;
+} */
+
+/* .container1 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: flex;
+}
+
+.mdg {
+    width: 728px;
+    height: 610px;
+    padding-top: 64px;
+}
+
+.content {
+    width: 758px;
+    height: 738px;
+    background-color: #f3f4f6;
+} */
