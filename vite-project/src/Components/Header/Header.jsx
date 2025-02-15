@@ -4,7 +4,7 @@ import logo from "../../assets/logo.svg";
 
 function Header() {
     return (
-        <div>
+        <div className='navbar'>
             <header className='main'>
                 <span className='imte'>
                     <span className='gfs'>
